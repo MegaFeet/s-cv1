@@ -384,6 +384,15 @@ i.fa.fa-google {
     border-left: 2px solid #D0D0D0;
     border-bottom: 2px solid #D0D0D0;
 }
+.details-grid {
+    background: url(../images/pic2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    min-height: 300px;
+}
 .details-shade{
     text-align:center;
     position: relative;
