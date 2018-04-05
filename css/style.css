@@ -377,15 +377,7 @@ i.fa.fa-facebook {
 i.fa.fa-google {
     margin: 0em 1.5em 0em 1.5em;
 }
-.details-grid {
-    background: url(../images/pic2.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    min-height: 300px;
-}
+
 .border-effect {
     border: 2px solid #e68523;
     padding: 9px;
